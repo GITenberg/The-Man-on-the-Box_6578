@@ -1,0 +1,28 @@
+_repo: The-Man-on-the-Box_6578
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacGrath, Harold
+    birthdate: 1871
+    deathdate: 1932
+    gutenberg_agent_id: '750'
+    url: http://www.gutenberg.org/2009/agents/750
+    wikipedia: http://en.wikipedia.org/wiki/Harold_MacGrath
+description: A wealthy young man disguises himself as a gardener to be near the woman
+  he secretly loves. He discovers that the butler is an enemy spy who plans to steal
+  military secrets, and has to find a way to stop him.
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6578'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Impostors and imposture -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Man on the Box
+url: http://www.gutenberg.org/ebooks/6578
