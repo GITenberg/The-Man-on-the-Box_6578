@@ -1,5 +1,8 @@
 _repo: The-Man-on-the-Box_6578
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: MacGrath, Harold
@@ -11,6 +14,8 @@ creator:
 description: A wealthy young man disguises himself as a gardener to be near the woman
   he secretly loves. He discovers that the butler is an enemy spy who plans to steal
   military secrets, and has to find a way to stop him.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6578#The-Man-on-the-Box
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
